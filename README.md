@@ -12,19 +12,20 @@
 
 #### Good to know
 - [99 Bottles of OOP, 2nd Edition, *2020*](https://sandimetz.com/99bottles)
-- [Стив Макконнелл, Совершенный код](https://www.labirint.ru/books/272529/)
+- [[Article] The Clean Code Blog by Robert C. Martin, The Clean Architecture, *2012*](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- Стив Макконнелл, Совершенный код, *2014*
 - (???) Р. Мартин - Чистый код. Создание, анализ и рефакторинг 
-- (???) Grimm A. - Confident Ruby - *2013*
+- (???) Grimm A. - Confident Ruby, *2013*
 
 #### Advanced
-- Клеппман Мартин - Высоконагруженные приложения (Бестселлеры O’Reilly) - *2018*
-- Мартин Фаулер - Рефакторинг. Улучшение существующего кода.pdf
+- Клеппман Мартин - Высоконагруженные приложения (Бестселлеры O’Reilly), *2018*
+- Мартин Фаулер - Рефакторинг. Улучшение существующего кода
 - Microsoft - Application Architecture Guide
-- Бхаргава А. - Грокаем Алгоритмы. Иллюстрированное пособие для программистов и любопытствущих - *2017*
-- Martin Fowler - Patterns of Enterprise Application Architecture(RU) - 2016
-- Pat Shaughnessy - Ruby Under a Microscope_ An Illustrated Guide to Ruby Internals (2013, No Starch Press)
-- Эндрю Хант, Дэвид Томас - Программист-прагматик. Путь от подмастерья к мастеру (2007, Лори) - libgen.lc
-- [Сэм Ньюмен: Создание микросервисов (2016)](https://www.labirint.ru/books/519859/)
+- Бхаргава А. - Грокаем Алгоритмы. Иллюстрированное пособие для программистов и любопытствущих, *2017*
+- Martin Fowler - Patterns of Enterprise Application Architecture(RU), *2016*
+- Pat Shaughnessy - Ruby Under a Microscope_ An Illustrated Guide to Ruby Internals, *2013*
+- Эндрю Хант, Дэвид Томас - Программист-прагматик. Путь от подмастерья к мастеру, *2007*
+- Сэм Ньюмен: Создание микросервисов, *2016*
 
 ## Databases
 
