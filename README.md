@@ -51,3 +51,7 @@ Frameworks, Docker, Deployment, CI/CD, useful gems and so on...
 #### Advanced
 - TODO
 
+## System analisys
+
+#### Must have
+- Мак Коннер - Искуство системного мышления
